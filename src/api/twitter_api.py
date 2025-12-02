@@ -35,3 +35,4 @@ if __name__ == "__main__":
     print("Mengambil tweet...")
     data = get_tweets("gempa")
     save_to_csv(data)
+
